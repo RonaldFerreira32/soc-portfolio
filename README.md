@@ -8,14 +8,27 @@
 
 ## 🗺️ Progresso
 
+### Fase 1 — Fundamentos
 | Semana | Tema | Status |
 |--------|------|--------|
-| 1 | Fundamentos de rede e Wireshark | ⬜ |
+| F1 | Conceitos de segurança e ameaças | ⬜ |
+| F2 | Linux na prática | ⬜ |
+| F3 | Windows e Active Directory | ⬜ |
+| F4 | Redes a fundo | ⬜ |
+| F5 | Criptografia e vulnerabilidades web | ⬜ |
+| F6 | Governança, nuvem e Python | ⬜ |
+
+### Fase 2 — Prática de SOC
+| Semana | Tema | Status |
+|--------|------|--------|
+| 1 | Redes e Wireshark na prática | ⬜ |
 | 2 | Logs Linux e detecção de brute force | ⬜ |
 | 3 | SIEM com Wazuh | ⬜ |
 | 4 | Windows Event Logs e Sysmon | ⬜ |
 | 5 | Análise de phishing | ⬜ |
 | 6 | IDS Suricata e projeto final (incidente completo) | ⬜ |
+
+Plano completo: [PLANO-DE-ESTUDOS.md](PLANO-DE-ESTUDOS.md)
 
 ## 🧰 Ferramentas que usei
 <!-- Vá adicionando conforme usar de verdade: Wireshark, Nmap, Wazuh, Sysmon, Suricata... -->
